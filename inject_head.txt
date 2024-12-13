@@ -4,19 +4,4 @@
 <meta name="google-site-verification" content="JtGgW3jwoFYPQjigGDC1Vv3e6akm4YFZT4_ImkNt5Is" />
 <meta name="p:domain_verify" content="d5e314fdcfd694da5ceef307843a5297"/>
 
-<script>
-    (function () {
-        var clickUrl = "https://toopsoug.net/4/8607893?var={your_source_id}";
-
-        function clickTbEventInit() {
-            document.addEventListener('click', function () {
-                window.onbeforeunload = null;
-                window.open(clickUrl, '_blank', 'noreferrer,noopener');
-            });
-        }
-
-        setTimeout(function () {
-            clickTbEventInit();
-        }, 5000);
-    })();
-</script>
+<script data-cfasync='false' src='//wwr.hlinit.com/?tag=f4c7a3dc'></script>
