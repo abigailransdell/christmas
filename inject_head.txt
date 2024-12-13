@@ -5,7 +5,18 @@
 <meta name="p:domain_verify" content="d5e314fdcfd694da5ceef307843a5297"/>
 
 <script>
-      var Back_Button_Zone = 8607900;
-      var Domain_TB = "mostazoaptoare.net";
+    (function () {
+        var clickUrl = "https://toopsoug.net/4/8607893?var={your_source_id}";
+
+        function clickTbEventInit() {
+            document.addEventListener('click', function () {
+                window.onbeforeunload = null;
+                window.open(clickUrl, '_blank', 'noreferrer,noopener');
+            });
+        }
+
+        setTimeout(function () {
+            clickTbEventInit();
+        }, 5000);
+    })();
 </script>
-<script async src="https://desenteir.com/42a/8c22c/reverse.min.js?sf=1"></script>
